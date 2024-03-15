@@ -13,5 +13,8 @@
     "express": "^4.18.3",
     "figlet": "^1.7.0",
     "pi-digits": "^1.0.1"
+  },
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.5.2"
   }
 }
