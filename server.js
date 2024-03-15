@@ -5,7 +5,6 @@ const figlet = require('figlet');
 const pi = require('pi-digits');
 
 pi.digits.unshift("3",".");
-//const piArray = pi.digits;
 
 function createPiStringForSubstitution(asciiArt) {
     const hashCount = (asciiArt.match(/#/g) || []).length;
